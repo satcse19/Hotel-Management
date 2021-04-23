@@ -1,0 +1,16 @@
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\HotelManegment.exe.config
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\HotelManegment.exe
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\HotelManegment.pdb
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.csprojResolveAssemblyReference.cache
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.Form1.resources
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.Properties.Resources.resources
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.csproj.GenerateResource.Cache
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.exe
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.pdb
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.Checkin.resources
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.Form2.resources
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\Dbcheck.mdf
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\Dbcheck_log.ldf
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\Dbcheckout.mdf
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\bin\Debug\Dbcheckout_log.ldf
+C:\Users\tushe\Desktop\fe\HotelManegment\HotelManegment\obj\Debug\HotelManegment.Checkou.resources
